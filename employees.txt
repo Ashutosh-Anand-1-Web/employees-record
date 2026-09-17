@@ -4,3 +4,5 @@ E103 Simran Finance Accountant 45000
 E104 Raj Sales Executive 40000
 E105 Neha IT Tester 42000
 E106 Rahul Marketing Executive 48000
+E107 Priya IT Team Lead 70000
+E108 Karan Finance Analyst 55000
